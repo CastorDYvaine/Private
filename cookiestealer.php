@@ -1,5 +1,5 @@
 <?php
-	header ('Location:https://google.com');
+	header ('Location:http://dev.vhb.org.nz');
 
 	if (isset($_GET["c"]))
 	{
